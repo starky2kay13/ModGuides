@@ -1,0 +1,10 @@
+{
+  "name": "FTBUtilities",
+  "type": "mod",
+  "authors": [
+    "LatvianModder"
+  ],
+  "mod_id": "FTBU",
+  "icon_path": "icon.png",
+  "format": "txt"
+}
