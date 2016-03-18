@@ -1,10 +1,10 @@
 {
   "name": "FTBUtilities",
   "type": "mod",
-  "authors": [
-    "LatvianModder"
-  ],
-  "mod_id": "FTBU",
-  "icon_path": "icon.png",
-  "format": "txt"
+  "version": "1.0.0",
+  "authors": ["LatvianModder"],
+  "format": "txt",
+  "linked_with": "FTBU",
+  "file_name": "FTBU",
+  "version_list_url": ""
 }
