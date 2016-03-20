@@ -1,4 +1,4 @@
 To claim chunks, open your inventory, click on "Claimed Chunks" button
 When the window opens, you can left-click on free chunks to claim them, or right-click to unclaim them.
 
-[chunk_claiming_1]
+{"image":"chunk_claiming_1.png"}
