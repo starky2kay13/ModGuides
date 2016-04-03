@@ -4,7 +4,5 @@
   "version": "1.0.0",
   "authors": ["LatvianModder"],
   "format": "txt",
-  "linked_with": "FTBU",
-  "file_name": "FTBU",
-  "version_list_url": ""
+  "file_name": "FTBUtilities"
 }
