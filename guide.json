@@ -3,6 +3,5 @@
   "type": "mod",
   "version": "1.0.0",
   "authors": ["LatvianModder"],
-  "format": "txt",
-  "file_name": "FTBUtilities"
+  "format": "txt"
 }
