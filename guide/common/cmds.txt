@@ -1,0 +1,6 @@
+/reload [client] - Reloads server and optionally client
+/reload_client - Reloads client only
+
+/ftb_mode set <mode> - Sets current mode
+/ftb_mode get - Prints current mode
+/ftb_mode list - Prints all available modes
