@@ -4,3 +4,7 @@
 /ftb_mode set <mode> - Sets current mode
 /ftb_mode get - Prints current mode
 /ftb_mode list - Prints all available modes
+
+/edit_config <ID> [group] [entry] [value] - Opens config Gui, if only 1st argument is given
+/set_item_name [Name...] - Sets item display name for held item, like an Anvil
+/ftb_notify <player|@a> [notification Json...] - Sends a popup notification to player
