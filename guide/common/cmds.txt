@@ -1,0 +1,23 @@
+# Commands
+
+/back - Teleports player to his last death location
+/spawn - Teleports player to Overworld spawn
+/tpl <player> - Teleports to [player] if he is online or last location if offline
+/warp <ID> - Teleports player to server set warp [ID]
+
+## Admin Commands
+
+/admin invsee <player> - If player is online, opens his inventory. Armor on left top row, Baubles on right top row.
+/admin setwarp <ID> - Sets warp [ID] to current position of player
+/admin delwarp <ID> - Deletes warp [ID]
+/admin unclaim - Opens unclaiming gui
+/admin unclaim_all <player | @a> - Unclaims all <player>'s chunks from all dimensions
+/admin server_info - Opens InfoGUI with technical informating about server, including Loaded Chunks
+
+## 1.7.10 only:
+
+/admin worldborder on|off - Enables/disables world border
+/admin worldborder get [dim] - Prints world border size for dimension [dim]
+/admin worldborder set [dim] [radius] - Sets world border radius for dimension [dim]
+/admin worldborder center - Sets world border center to current player's locatoin
+/admin worldborder center [x] [z] - Sets world border center to x, z
